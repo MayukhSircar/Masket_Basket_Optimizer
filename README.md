@@ -5,6 +5,7 @@ The Market Basket Optimizer project aims to analyze customer purchase data and i
 Requirements:
 Python 3.x
 Jupyter Notebook or any Python IDE
+
 Libraries:
 numpy
 pandas
